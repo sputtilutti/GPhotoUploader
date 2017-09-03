@@ -1,0 +1,17 @@
+.DS_Store
+.cache-main
+.classpath
+.project
+.metadata/
+.settings/
+.idea/
+.gradle/
+/target/
+/build/
+/bin/
+classes/
+/test/*
+_build
+*.class
+src/main/resources/client_secret.json
+src/main/resources/StoredCredential
